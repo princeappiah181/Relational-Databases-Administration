@@ -1,9 +1,9 @@
-📘 Final Project – IBM Relational Database Administration Essentials
+ Final Project – IBM Relational Database Administration Essentials
 
 This repository contains the final project work completed as part of the IBM Relational Database Administration Essentials certification on Coursera.
 The project is divided into three parts and demonstrates hands-on skills in managing relational databases using PostgreSQL, MySQL, and IBM Db2 across cloud and containerized environments.
 
-✅ Project Highlights:
+Project Highlights:
 
 Part 1 – PostgreSQL (Docker + Theia IDE):
 Installation, configuration, user management, and database backup
